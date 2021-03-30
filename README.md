@@ -1,7 +1,7 @@
 # CusackPortfolio
 
-### A Cusack Portfolio project to show a few coding styles
+### A Crypto Currency versioning project to show UI & UX
 
-SwiftUI vStacks, hStacks and zStacks test
+A crypto currency watchlist written in SwiftUI utilizing vStacks, hStacks and zStacks.
 
-![Demo Animation](https://www.home.b2innovation.com/img/Stacks.png?raw=true)
+![App Icon](https://www.home.b2innovation.com/img/Stacks.png?raw=true)
