@@ -29,7 +29,7 @@ struct CryptoCard: View {
                         .lineLimit(10)
                         .padding([.horizontal])
 
-                    Text(self.crypto.description)
+                    Text(self.crypto.info)
                         .font(.headline)
                         .lineLimit(10)
                         .padding([.horizontal, .bottom])
@@ -83,7 +83,7 @@ struct CryptoCard_Previews: PreviewProvider {
     static var previews: some View {
         let crypto = Crypto(context: NSManagedObjectContext(concurrencyType: .mainQueueConcurrencyType))
         crypto.name = "BCH ABC"
-        crypto.description = "BitCoin Cash ABC"
+        crypto.info = "BitCoin Cash ABC"
         crypto.rating = "A"
 
         return CryptoCard(crypto: crypto)

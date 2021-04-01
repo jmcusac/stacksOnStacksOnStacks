@@ -13,7 +13,7 @@ struct AddView: View {
     @Environment(\.presentationMode) var presentationMode
 
     @State private var name = ""
-    @State private var description = ""
+    @State private var info = ""
     @State private var rating = "Grade"
     let ratings = ["S", "A", "B", "C"]
 
@@ -22,7 +22,7 @@ struct AddView: View {
             Form {
                 Section {
                     TextField("Crypto Name", text: $name)
-                    TextField("Description", text: $description)
+                    TextField("Description", text: $info)
 
                     Picker("Rating", selection: $rating) {
                         ForEach(ratings, id: \.self) { rating in
@@ -34,14 +34,14 @@ struct AddView: View {
                 Button("Add Crypto") {
                     let newCrypto = Crypto(context: self.moc)
                     newCrypto.name = self.name
-                    newCrypto.description = self.description
+                    newCrypto.info = self.info
                     newCrypto.rating = self.rating
 
                     do {
                         try self.moc.save()
                         self.presentationMode.wrappedValue.dismiss()
                     } catch {
-                        print("Whoops! \(error.localizedDescription)")
+                        print("No es bueno! \(error.localizedDescription)")
                     }
                 }
             }.navigationBarTitle("New Crypto")

@@ -19,6 +19,28 @@
 		5171A92C2337EA57007010CE /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5171A92B2337EA57007010CE /* AddView.swift */; };
 		5171A9552337F99F007010CE /* CryptoCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5171A9542337F99F007010CE /* CryptoCard.swift */; };
 		51F7AF0C2338E07A00C40CD6 /* EmojiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F7AF0B2338E07A00C40CD6 /* EmojiView.swift */; };
+		CEC38D95261614E700AABA3E /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D80261614E600AABA3E /* Icon-72.png */; };
+		CEC38D96261614E700AABA3E /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D81261614E600AABA3E /* Icon-Small-50.png */; };
+		CEC38D97261614E700AABA3E /* Icon-iPadPro@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D82261614E600AABA3E /* Icon-iPadPro@2x.png */; };
+		CEC38D98261614E700AABA3E /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D83261614E600AABA3E /* Icon-76.png */; };
+		CEC38D99261614E700AABA3E /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D84261614E600AABA3E /* Icon-76@2x.png */; };
+		CEC38D9A261614E700AABA3E /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D85261614E600AABA3E /* Icon-Small@2x.png */; };
+		CEC38D9B261614E700AABA3E /* Icon-Spotlight-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D86261614E600AABA3E /* Icon-Spotlight-40@2x.png */; };
+		CEC38D9C261614E700AABA3E /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D87261614E600AABA3E /* Icon-60@3x.png */; };
+		CEC38D9D261614E700AABA3E /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D88261614E600AABA3E /* Icon-72@2x.png */; };
+		CEC38D9E261614E700AABA3E /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D89261614E600AABA3E /* Icon-Small.png */; };
+		CEC38D9F261614E700AABA3E /* Icon-76@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D8A261614E600AABA3E /* Icon-76@3x.png */; };
+		CEC38DA0261614E700AABA3E /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D8B261614E600AABA3E /* Icon-Small@3x.png */; };
+		CEC38DA1261614E700AABA3E /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D8C261614E600AABA3E /* Icon.png */; };
+		CEC38DA2261614E700AABA3E /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D8D261614E600AABA3E /* Icon@2x.png */; };
+		CEC38DA3261614E700AABA3E /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D8E261614E600AABA3E /* Icon-Small-50@2x.png */; };
+		CEC38DA4261614E700AABA3E /* Icon-167.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D8F261614E600AABA3E /* Icon-167.png */; };
+		CEC38DA5261614E700AABA3E /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D90261614E700AABA3E /* Icon-60@2x.png */; };
+		CEC38DA6261614E700AABA3E /* bitcoinIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D91261614E700AABA3E /* bitcoinIcon.png */; };
+		CEC38DA7261614E700AABA3E /* Icon-Spotlight-40.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D92261614E700AABA3E /* Icon-Spotlight-40.png */; };
+		CEC38DA8261614E700AABA3E /* Icon-Spotlight-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D93261614E700AABA3E /* Icon-Spotlight-40@3x.png */; };
+		CEC38DA9261614E700AABA3E /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38D94261614E700AABA3E /* Icon-60.png */; };
+		CEC38DAD2616157500AABA3E /* Icon-20.png in Resources */ = {isa = PBXBuildFile; fileRef = CEC38DAC2616157500AABA3E /* Icon-20.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +59,28 @@
 		5171A92D2337F14A007010CE /* StacksOnStacks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StacksOnStacks.entitlements; sourceTree = "<group>"; };
 		5171A9542337F99F007010CE /* CryptoCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoCard.swift; sourceTree = "<group>"; };
 		51F7AF0B2338E07A00C40CD6 /* EmojiView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiView.swift; sourceTree = "<group>"; };
+		CEC38D80261614E600AABA3E /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		CEC38D81261614E600AABA3E /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		CEC38D82261614E600AABA3E /* Icon-iPadPro@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-iPadPro@2x.png"; sourceTree = "<group>"; };
+		CEC38D83261614E600AABA3E /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		CEC38D84261614E600AABA3E /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		CEC38D85261614E600AABA3E /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		CEC38D86261614E600AABA3E /* Icon-Spotlight-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40@2x.png"; sourceTree = "<group>"; };
+		CEC38D87261614E600AABA3E /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		CEC38D88261614E600AABA3E /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		CEC38D89261614E600AABA3E /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		CEC38D8A261614E600AABA3E /* Icon-76@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@3x.png"; sourceTree = "<group>"; };
+		CEC38D8B261614E600AABA3E /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
+		CEC38D8C261614E600AABA3E /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		CEC38D8D261614E600AABA3E /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		CEC38D8E261614E600AABA3E /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		CEC38D8F261614E600AABA3E /* Icon-167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-167.png"; sourceTree = "<group>"; };
+		CEC38D90261614E700AABA3E /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		CEC38D91261614E700AABA3E /* bitcoinIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bitcoinIcon.png; sourceTree = "<group>"; };
+		CEC38D92261614E700AABA3E /* Icon-Spotlight-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40.png"; sourceTree = "<group>"; };
+		CEC38D93261614E700AABA3E /* Icon-Spotlight-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Spotlight-40@3x.png"; sourceTree = "<group>"; };
+		CEC38D94261614E700AABA3E /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		CEC38DAC2616157500AABA3E /* Icon-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-20.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +113,7 @@
 		5171A90D2337E1AF007010CE /* StacksOnStacks */ = {
 			isa = PBXGroup;
 			children = (
+				CEC38DAB261614ED00AABA3E /* Icons */,
 				5171A92D2337F14A007010CE /* StacksOnStacks.entitlements */,
 				5171A9272337E8D3007010CE /* Crypto+CoreDataClass.swift */,
 				5171A9282337E8D3007010CE /* Crypto+CoreDataProperties.swift */,
@@ -93,6 +138,35 @@
 				5171A91A2337E1B2007010CE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CEC38DAB261614ED00AABA3E /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				CEC38DAC2616157500AABA3E /* Icon-20.png */,
+				CEC38D91261614E700AABA3E /* bitcoinIcon.png */,
+				CEC38D94261614E700AABA3E /* Icon-60.png */,
+				CEC38D90261614E700AABA3E /* Icon-60@2x.png */,
+				CEC38D87261614E600AABA3E /* Icon-60@3x.png */,
+				CEC38D80261614E600AABA3E /* Icon-72.png */,
+				CEC38D88261614E600AABA3E /* Icon-72@2x.png */,
+				CEC38D83261614E600AABA3E /* Icon-76.png */,
+				CEC38D84261614E600AABA3E /* Icon-76@2x.png */,
+				CEC38D8A261614E600AABA3E /* Icon-76@3x.png */,
+				CEC38D8F261614E600AABA3E /* Icon-167.png */,
+				CEC38D82261614E600AABA3E /* Icon-iPadPro@2x.png */,
+				CEC38D81261614E600AABA3E /* Icon-Small-50.png */,
+				CEC38D8E261614E600AABA3E /* Icon-Small-50@2x.png */,
+				CEC38D89261614E600AABA3E /* Icon-Small.png */,
+				CEC38D85261614E600AABA3E /* Icon-Small@2x.png */,
+				CEC38D8B261614E600AABA3E /* Icon-Small@3x.png */,
+				CEC38D92261614E700AABA3E /* Icon-Spotlight-40.png */,
+				CEC38D86261614E600AABA3E /* Icon-Spotlight-40@2x.png */,
+				CEC38D93261614E700AABA3E /* Icon-Spotlight-40@3x.png */,
+				CEC38D8C261614E600AABA3E /* Icon.png */,
+				CEC38D8D261614E600AABA3E /* Icon@2x.png */,
+			);
+			path = Icons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -153,9 +227,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEC38DA3261614E700AABA3E /* Icon-Small-50@2x.png in Resources */,
 				5171A91E2337E1B2007010CE /* LaunchScreen.storyboard in Resources */,
+				CEC38DA9261614E700AABA3E /* Icon-60.png in Resources */,
+				CEC38D95261614E700AABA3E /* Icon-72.png in Resources */,
+				CEC38D9D261614E700AABA3E /* Icon-72@2x.png in Resources */,
+				CEC38DA0261614E700AABA3E /* Icon-Small@3x.png in Resources */,
+				CEC38DA1261614E700AABA3E /* Icon.png in Resources */,
+				CEC38DA6261614E700AABA3E /* bitcoinIcon.png in Resources */,
+				CEC38D9E261614E700AABA3E /* Icon-Small.png in Resources */,
+				CEC38D96261614E700AABA3E /* Icon-Small-50.png in Resources */,
+				CEC38DA7261614E700AABA3E /* Icon-Spotlight-40.png in Resources */,
+				CEC38D9F261614E700AABA3E /* Icon-76@3x.png in Resources */,
+				CEC38D9A261614E700AABA3E /* Icon-Small@2x.png in Resources */,
+				CEC38DAD2616157500AABA3E /* Icon-20.png in Resources */,
+				CEC38D98261614E700AABA3E /* Icon-76.png in Resources */,
+				CEC38DA5261614E700AABA3E /* Icon-60@2x.png in Resources */,
+				CEC38DA4261614E700AABA3E /* Icon-167.png in Resources */,
 				5171A91B2337E1B2007010CE /* Preview Assets.xcassets in Resources */,
+				CEC38DA8261614E700AABA3E /* Icon-Spotlight-40@3x.png in Resources */,
+				CEC38D9B261614E700AABA3E /* Icon-Spotlight-40@2x.png in Resources */,
 				5171A9182337E1B2007010CE /* Assets.xcassets in Resources */,
+				CEC38DA2261614E700AABA3E /* Icon@2x.png in Resources */,
+				CEC38D99261614E700AABA3E /* Icon-76@2x.png in Resources */,
+				CEC38D97261614E700AABA3E /* Icon-iPadPro@2x.png in Resources */,
+				CEC38D9C261614E700AABA3E /* Icon-60@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -314,7 +410,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = StacksOnStacks/StacksOnStacks.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 9;
 				DEVELOPMENT_ASSET_PATHS = "\"StacksOnStacks/Preview Content\"";
 				DEVELOPMENT_TEAM = XKEENW5QU2;
 				ENABLE_PREVIEWS = YES;
@@ -323,7 +419,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.1;
+				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.CuSoft.StacksOnStacks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = NO;
@@ -338,7 +434,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = StacksOnStacks/StacksOnStacks.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 9;
 				DEVELOPMENT_ASSET_PATHS = "\"StacksOnStacks/Preview Content\"";
 				DEVELOPMENT_TEAM = XKEENW5QU2;
 				ENABLE_PREVIEWS = YES;
@@ -347,7 +443,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.1;
+				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.CuSoft.StacksOnStacks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = NO;

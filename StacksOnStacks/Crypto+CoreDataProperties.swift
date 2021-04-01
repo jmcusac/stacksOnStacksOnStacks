@@ -9,7 +9,6 @@
 import Foundation
 import CoreData
 
-
 extension Crypto {
 
     @nonobjc public class func fetchRequest() -> NSFetchRequest<Crypto> {
@@ -17,7 +16,7 @@ extension Crypto {
     }
 
     @NSManaged public var name: String
-    @NSManaged public var desription: String
+    @NSManaged public var info: String
     @NSManaged public var rating: String
 
 }

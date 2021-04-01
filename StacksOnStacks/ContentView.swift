@@ -20,7 +20,7 @@ struct OldContentView: View {
         NavigationView {
             List {
                 ForEach(cryptos, id: \.name) { crypto in
-                    NavigationLink(destination: Text(crypto.description)) {
+                    NavigationLink(destination: Text(crypto.info)) {
                         EmojiView(for: crypto.rating)
                         Text(crypto.name)
                     }

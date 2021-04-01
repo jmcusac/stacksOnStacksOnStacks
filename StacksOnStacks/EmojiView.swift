@@ -13,14 +13,14 @@ struct EmojiView: View {
 
     var body: some View {
         switch rating {
-        case "Sob":
-            return Text("😭")
-        case "Sigh":
-            return Text("😔")
-        case "Smirk":
+        case "S":
             return Text("😏")
-        default:
+        case "A":
             return Text("😐")
+        case "B":
+            return Text("😔")
+        default:
+            return Text("😭")
         }
     }
 
@@ -31,6 +31,6 @@ struct EmojiView: View {
 
 struct EmojiView_Previews: PreviewProvider {
     static var previews: some View {
-        EmojiView(for: "Sob")
+        EmojiView(for: "S")
     }
 }
